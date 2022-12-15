@@ -5,8 +5,8 @@ import Header from "../components/Header";
 import Decider from "../components/Decider";
 import Footer from "../components/Footer";
 
-const addr = () => {
-  const address = useRouter().query.addr
+const Addr = () => {
+  const address = useRouter().query.Addr
   return (
     <MoralisProvider initializeOnMount={false}>
       <Header />
@@ -16,4 +16,4 @@ const addr = () => {
   )
 }
 
-export default addr;
+export default Addr;

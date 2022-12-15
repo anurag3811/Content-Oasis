@@ -37,8 +37,8 @@ const Howtouse = () => {
                   </h2>
                 </div>
                 <p class="leading-relaxed text-base">
-                  You can easily Create your own page by clicking on 'Create
-                  Page'. Once you create a page by entering necessary inputs,
+                  You can easily Create your own page by clicking on &apos; Create
+                  Page &apos;. Once you create a page by entering necessary inputs,
                   you can then go on to add content. (One user can only create
                   one contract in their lifetime)
                 </p>
@@ -67,12 +67,12 @@ const Howtouse = () => {
                   </h2>
                 </div>
                 <p class="leading-relaxed text-base">
-                  To add content, first to go your page, by clicking on 'See
-                  your page' (or by choosing your page in the list of pages).
+                  To add content, first to go your page, by clicking on &apos; See
+                  your page &apos; (or by choosing your page in the list of pages).
                   Once you are on Adminpage you can easily add links of your
                   content to specific levels. Note: As of now, add only links of
                   images that are hosted on ipfs, you can use web3.storage for
-                  the same. The link should contain '.ipfs.w3s.link/' in it. It
+                  the same. The link should contain &apos; .ipfs.w3s.link/ &apos; in it. It
                   is best recommended to use square images for better
                   user-experience.
                 </p>
@@ -104,14 +104,14 @@ const Howtouse = () => {
                 </div>
                 <p class="leading-relaxed text-base">
                   You can delete your page anytime you want, just go to your
-                  page and scroll to bottom, and click on 'Delete Page'. You can
+                  page and scroll to bottom, and click on &apos; Delete Page &apos;. You can
                   access your page even after deleting it(For withdrawing Funds)
-                  , but it won't be visible to the users on Content Oasis's
+                  , but it won&apos;t be visible to the users on Content Oasis&apos;s
                   Landing Page. (Since, this is a project and not a live
                   website, I can also delete pages of people to avoid spamming
                   and cluttering of explicit content. I would definitely not
                   keep that authority if this is was an actual Web3 website, as
-                  the whole purpose of this platform is to avoid someone's
+                  the whole purpose of this platform is to avoid someone&apos;s
                   control on your content and reach)
                 </p>
               </div>
