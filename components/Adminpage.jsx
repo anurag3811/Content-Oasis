@@ -525,7 +525,7 @@ const Adminpage = (props) => {
       </div>
       <div className="flex justify-center">
         <div
-          className="centerer grid xl:grid-cols-4 md:grid-cols-3 sm:grid-cols-2 xs:grid-cols-1"
+          className=" grid xl:grid-cols-4 md:grid-cols-3 sm:grid-cols-2 xs:grid-cols-1"
           style={{
             width: "80%",
           }}
@@ -548,7 +548,7 @@ const Adminpage = (props) => {
       </div>
       <div className="flex justify-center">
         <div
-          className="centerer grid xl:grid-cols-4 md:grid-cols-3 sm:grid-cols-2 xs:grid-cols-1"
+          className=" grid xl:grid-cols-4 md:grid-cols-3 sm:grid-cols-2 xs:grid-cols-1"
           style={{
             width: "80%",
           }}
