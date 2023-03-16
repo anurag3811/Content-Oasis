@@ -1,25 +1,25 @@
 
 
-Added to cart-
+Connect with Wallet-
 ![1](https://github.com/anurag3811/Content-Oasis/blob/main/1.png)
 
 
-Added to cart-
+View Creators-
 ![2](https://github.com/anurag3811/Content-Oasis/blob/main/2.png)
 
-Added to cart-
+Buy Subscription-
 ![3](https://github.com/anurag3811/Content-Oasis/blob/main/3.png)
 
-Added to cart-
+Confirm Transaction-
 ![4](https://github.com/anurag3811/Content-Oasis/blob/main/4.png)
 
-Added to cart-
+Membership Confirmed-
 ![5](https://github.com/anurag3811/Content-Oasis/blob/main/5.png)
 
-Added to cart-
+View your Content-
 ![6](https://github.com/anurag3811/Content-Oasis/blob/main/6.png)
 
-Added to cart-
+Dashboard for Creators-
 ![7](https://github.com/anurag3811/Content-Oasis/blob/main/7.png)
 
 
